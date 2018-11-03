@@ -4,6 +4,6 @@
 
 # 📖 INDEX 📖
 
-### [[CH1] 한눈에 보는 머신러닝](../hands-on-machine-learning/[CH1].md)
+### [[CH1] 한눈에 보는 머신러닝](../master/[CH1].md)
       
 ### [CH2] 머신러닝 프로젝트 처음부터 끝까지
